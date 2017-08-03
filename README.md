@@ -35,7 +35,7 @@ CentOS 7
 
 第一步：在VPS上运行脚本，并按提示配置
 
-wget --no-check-certificate https://raw.githubusercontent.com/RookieAlsoApring/V2ray-Bash/master/v2ray.sh && bash v2ray.sh
+wget --no-check-certificate https://raw.githubusercontent.com/RookieAlsoApring/V2Ray.sh/master/V2Ray-Bash_back.sh && bash V2Ray-Bash_back.sh
 第二步：下载VPS上 /root/config.json 客户端配置文件，与V2ray放在同一个文件夹下。（V2ray下载地址：https://github.com/v2ray/v2ray-core/releases/latest）
 
 第三步：运行V2ray。
